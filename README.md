@@ -54,7 +54,3 @@ Se você quiser contribuir para este projeto, fique à vontade para fazer um for
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT).
-
----
-
-Esperamos que este readme seja útil para você configurar e executar o projeto do Blog da Marvel desenvolvido com Angular. Se tiver alguma dúvida ou problema, sinta-se à vontade para abrir uma issue neste repositório. Divirta-se explorando o universo Marvel por meio deste blog! 🦸‍♂️🦸‍♀️
